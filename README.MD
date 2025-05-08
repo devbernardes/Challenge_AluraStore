@@ -39,26 +39,7 @@ Este projeto foi realizado utilizando as seguintes tecnologias:
 -   **plotly**: Para criação de gráfico de bolhas interativo.
 -   **Folium**: Para criação de mapas interativos e mapas de calor.
 -   **Git**: Para versionamento do código.
--   **Jupyter Notebook**: Para desenvolvimento e execução interativa do código.
-
-## Estrutura do Projeto
-
-/Challenge_AluraStore
-│
-├── AluraStoreBr.ipynb     # Notebook principal com todas as análises
-├── /data/
-│   └── loja_1.csv  # Dados da Loja 1
-│   └── loja_2.csv  # Dados da Loja 2
-│   └── loja_3.csv  # Dados da Loja 3
-│   └── loja_4.csv  # Dados da Loja 4
-├── /gráficos/
-│   └── gráfico de barras para as vendas por categoria  # Imagem do gráfico de barras
-│   └── gráfico de linhas para a média das avaliações  # Imagem do gráfico de linhas
-│   └── gráfico de bolhas para produtos mais e menos vendidos  # Imagem do gráfico de bolhas
-├── README.md  # Este arquivo
-├── requirements.txt  # Dependências do projeto
-└── LICENSE  # Licença do projeto
-
+-   **Jupyter Notebook**: Para desenvolvimento e execução interativa do código
 
 ## Passos para Rodar o Projeto
 
