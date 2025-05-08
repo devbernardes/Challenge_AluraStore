@@ -29,16 +29,14 @@ O objetivo principal foi identificar a loja com menor desempenho e recomendar qu
 -   Produtos mais e menos vendidos.
 -   Custo médio de frete.
 
-Além disso, foi explorada a **distribuição geográfica** das vendas, com a criação de gráficos interativos e mapas de calor para visualizar onde as vendas acontecem e como isso pode influenciar o desempenho das lojas.
-
 ## Tecnologias e Ferramentas Utilizadas
 
 Este projeto foi realizado utilizando as seguintes tecnologias:
 
 -   **Python**: A linguagem principal para análise de dados e visualizações.
 -   **Pandas**: Para manipulação e análise de dados.
--   **Matplotlib** e **Seaborn**: Para visualizações gráficas.
--   **Cartopy**: Para criação de mapas de dispersão geográfica e de calor.
+-   **Matplotlib**: Para visualizações gráficas.
+-   **plotly**: Para criação de gráfico de bolhas interativo.
 -   **Folium**: Para criação de mapas interativos e mapas de calor.
 -   **Git**: Para versionamento do código.
 -   **Jupyter Notebook**: Para desenvolvimento e execução interativa do código.
@@ -100,7 +98,6 @@ As seguintes análises foram realizadas durante o projeto:
 -   **Média das Avaliações**: Calculamos a média das avaliações dos clientes de cada loja e comparamos os resultados.
 -   **Produtos Mais e Menos Vendidos**: Identificamos os produtos mais vendidos e os menos vendidos de cada loja.
 -   **Custo de Frete**: Calculamos o custo médio de frete para cada loja e analisamos como isso impacta nas vendas.
--   **Distribuição Geográfica**: Criamos mapas de dispersão e mapas de calor para analisar como as vendas variam conforme a localização geográfica.
 
 ## Resultados
 
