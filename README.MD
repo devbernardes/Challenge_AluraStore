@@ -45,10 +45,9 @@ Este projeto foi realizado utilizando as seguintes tecnologias:
 
 ## Estrutura do Projeto
 
-/AluraStore
+/Challenge_AluraStore
 │
-├── /notebooks/
-│   └── alura_store_data_analysis.ipynb  # Notebook principal com todas as análises
+├── AluraStoreBr.ipynb     # Notebook principal com todas as análises
 ├── /data/
 │   └── loja_1.csv  # Dados da Loja 1
 │   └── loja_2.csv  # Dados da Loja 2
@@ -71,11 +70,11 @@ Antes de rodar o projeto, é necessário instalar as dependências. Você pode u
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/seu_usuario/alura-store.git](https://github.com/seu_usuario/alura-store.git)
+    git clone [https://github.com/devbernardes/Challenge_AluraStore.git](https://github.com/devbernardes/Challenge_AluraStore.git)
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
-    cd alura-store
+    cd Challenge_AluraStore
     ```
 3.  Instale as dependências utilizando pip:
     ```bash
@@ -90,7 +89,7 @@ Após instalar as dependências, você pode executar o Jupyter Notebook para vis
     ```bash
     jupyter notebook
     ```
-2.  No navegador, clique no notebook `alura_store_data_analysis.ipynb` localizado na pasta `/notebooks/` e execute as células para ver as análises.
+2.  No navegador, clique no notebook `AluraStoreBr.ipynb` localizado na pasta `/notebooks/` e execute as células para ver as análises.
 
 ## Análises Realizadas
 
